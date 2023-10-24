@@ -64,7 +64,7 @@ upload:
 
 website:
   # 站点标题
-  title: 冷文学习者
+  title: 风信子
   # SEO 关键字
   keywords:
     - typecho
@@ -74,10 +74,9 @@ website:
     - springboot
     - 学习
     - 自学
-    - 冷文学习者
-    - 冷文图床
+    - 风信子
   # SEO描述信息
-  description: 冷文学习者(KEVINLU98.COM)，记录一个北漂小码农的日常业余生活
+  description: 周易学习笔记
   # 站长头像
   avatar: /static/image/avatar/1.png
   # 站长昵称
@@ -110,7 +109,7 @@ website:
   # 站长Github
   github: https://github.com/muzhili123
   # 站长新浪
-  sina: https://weibo.com/lengwenboke
+  sina: https://space.bilibili.com/302666291?spm_id_from=333.999.0.0
   # 站长邮箱
   mail: 2550594824@qq.com
   # 网站LOGO 300 x 80

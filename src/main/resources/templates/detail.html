@@ -202,7 +202,8 @@
     <div class="lw-right-list lw-md-show lw-posa">
         <th:block th:include="common::right"></th:block>
         <div th:if="${article.type eq T(cn.kevinlu98.pojo.Article).TYPE_ARTICLE}" class="lw-right-item"
-             id="lw-toc-parent">
+             id="lw-toc-parent" style="overflow-y:auto; overflow-x:auto; width:300px; height:400px;">
+
             <h4><i class="fa fa-bars lw-mr5"></i>文章目录</h4>
             <ul id="lw-article-toc"></ul>
         </div>

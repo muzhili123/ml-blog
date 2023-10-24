@@ -22,6 +22,6 @@ public class MailTest {
 
     @Test
     public void testSend(){
-        helper.sendMail("kevinlu98@qq.com","测试邮件","<h1>冷文学习者</h1><p>我是一个测试邮件</p>");
+        helper.sendMail("2550594824@qq.com","测试邮件","<h1>风信子</h1><p>我是一个测试邮件</p>");
     }
 }
